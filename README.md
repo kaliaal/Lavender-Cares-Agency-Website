@@ -2,8 +2,6 @@
 
 This is a full-featured business website I created for a home healthcare agency. It includes:
 
-- Admin & client-facing forms
-- Login authentication
 - reCAPTCHA protection
 - Dynamic job and service forms
 - Responsive mobile & desktop layout
