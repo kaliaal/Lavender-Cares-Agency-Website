@@ -24,5 +24,5 @@ This is a full-featured business website I created for a home healthcare agency.
 ---
 
 ## 🎬 Short Website Demo
-[Watch the video](website-demo.mov)
+[Watch the video](Website-Demo.mov)
 
