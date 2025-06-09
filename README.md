@@ -16,8 +16,8 @@ This is a full-featured business website I created for a home healthcare agency.
 
 | Desktop | Mobile |
 |--------|--------|
-| ![](screenshots/careers-page-screenshot.png) | ![](screenshots/homepage-screenshot-mobile.PNG) |
-| ![](screenshots/testimonial-page-screenshot.png) | ![](screenshots/menu-bar-screenshot-mobile.PNG) |
+| ![](screenshots/homepage-screenshot.png) | ![](screenshots/homepage-screenshot-mobile.PNG) |
+| ![](screenshots/careers-page-screenshot.png) | ![](screenshots/menu-bar-screenshot-mobile.PNG) |
 
 ---
 
