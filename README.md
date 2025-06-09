@@ -6,7 +6,7 @@ This is a full-featured business website I created for a home healthcare agency.
 - Dynamic job and service forms
 - Responsive mobile & desktop layout
 
-🔗 [Live Demo](https://lavendercaresagency.com)
+(Live site currently under maintenance, demo link will be posted very soon.)
 
 > source code is not included to respect client privacy. Screenshots and a video demo are available below.
 
