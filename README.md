@@ -6,7 +6,9 @@ This is a full-featured business website I created for a home healthcare agency.
 - Dynamic job and service forms
 - Responsive mobile & desktop layout
 
-(Live site currently under maintenance, demo link will be posted very soon.)
+## ⚙️ Maintenance Update
+This is a newly launched project (live since June 2025) and is currently undergoing maintenance to refine form functionality and URL structure. Updates are being actively deployed to ensure a seamless user experience.
+The site will soon be available (within a few hours to a day). 
 
 > source code is not included to respect client privacy. Screenshots and a video demo are available below.
 
@@ -25,6 +27,5 @@ This is a full-featured business website I created for a home healthcare agency.
 [Watch the video](Website-Demo.mov)
 
 ## Tech Stack
-
-- **HTML/CSS/JavaScript**
-- **PHP**
+- HTML/CSS/JavaScript
+- PHP
