@@ -7,7 +7,8 @@ This is a full-featured business website I created for a home healthcare agency.
 - Responsive mobile & desktop layout
 - Custom Built
 
-## VIEW TEMPORARY SITE HERE: []
+## VIEW TEMPORARY SITE HERE: [] 
+(Link will be updated in 30 minutes to 24 hours due to website migration.)
 
 ## ⚠️ Hosting Notice 
 Due to an unexpected delay from our third-party hosting provider, the official production site is scheduled to launch early next week.
