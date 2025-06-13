@@ -7,7 +7,7 @@ This is a full-featured business website I created for a home healthcare agency.
 - Responsive mobile & desktop layout
 - Custom Built
 
-## VIEW TEMPORARY SITE HERE: [] 
+## VIEW TEMPORARY SITE HERE: [https://lightgray-raccoon-642914.hostingersite.com/] 
 (Link will be updated in 30 minutes to 2 hours due to website migration.)
 
 ## ⚠️ Hosting Notice 
