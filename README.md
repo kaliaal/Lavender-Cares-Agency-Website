@@ -7,9 +7,12 @@ This is a full-featured business website I created for a home healthcare agency.
 - Responsive mobile & desktop layout
 - Custom Built
 
-## ⚙️ Maintenance Update
-This is a newly relaunched site (since June 2025) and is currently undergoing maintenance to refine form functionality and URL structure. Updates are being actively deployed to ensure a seamless user experience.
-The site will soon be available (the Final build is complete; site launch will be on Friday, June 13th). Thank you for your patience!
+## VIEW TEMPORARY SITE HERE: [https://alylahpeters.lovestoblog.com/]
+
+## ⚠️ Hosting Notice 
+Due to an unexpected delay from our third-party hosting provider, the official production site is scheduled to launch early next week.
+In the meantime, I have temporarily hosted the full working version of the site, which can be viewed from the link above. All features, forms, and optimizations are live in this temporary environment.
+Thank you for your patience!
 
 > source code is not included to respect client privacy. Screenshots and a video demo are available below.
 
