@@ -9,7 +9,7 @@ This is a full-featured business website I created for a home healthcare agency.
 
 ## ⚙️ Maintenance Update
 This is a newly relaunched site (since June 2025) and is currently undergoing maintenance to refine form functionality and URL structure. Updates are being actively deployed to ensure a seamless user experience.
-The site will soon be available (the Final build is complete; site launch will be on Friday, June 13th). 
+The site will soon be available (the Final build is complete; site launch will be on Friday, June 13th). Thank you for your patience!
 
 > source code is not included to respect client privacy. Screenshots and a video demo are available below.
 
