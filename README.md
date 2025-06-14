@@ -9,7 +9,7 @@ This is a full-featured business website I created for a home healthcare agency.
 
 ## VIEW LIVE SITE HERE: [🔗Demo Link](https://lavendercaresagency.com)
 
-> source code is not included to respect the client's privacy. screenshots and a video demo are available below.
+> The source code is not included to respect the client's privacy. Screenshots and a video demo are available below.
 
 ---
 
