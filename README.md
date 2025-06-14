@@ -7,13 +7,7 @@ This is a full-featured business website I created for a home healthcare agency.
 - Responsive mobile & desktop layout
 - Custom Built
 
-## VIEW TEMPORARY SITE HERE: [🔗Temporary Demo Link](https://lightgray-raccoon-642914.hostingersite.com/)
-
-
-## ⚠️ Hosting Notice 
-Due to an unexpected delay from our third-party hosting provider, the official production site is scheduled to launch early next week.
-In the meantime, I have temporarily hosted the full working version of the site, which can be viewed from the link above. All features, forms, and optimizations are live in this temporary environment.
-Thank you for your patience!
+## VIEW LIVE SITE HERE: [🔗Demo Link](https://lavendercaresagency.com)
 
 > source code is not included to respect client privacy. Screenshots and a video demo are available below.
 
